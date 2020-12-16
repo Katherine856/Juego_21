@@ -26,6 +26,14 @@ pip install behave
 
 ## Creación de feacture
 
+Feature: Indica el nombre de la funcionalidad que vamos a probar. Debe ser un título claro y explícito. Incluímos aquí una descripción en forma de historia de usuario: “Como [rol ] quiero [ característica ] para que [los beneficios]”. Sobre esta descripción empezaremos a construir nuestros escenarios de prueba.
 
+Scenario: Describe cada escenario que vamos a probar.
+
+Given: Provee contexto para el escenario en que se va a ejecutar el test, tales como punto donde se ejecuta el test, o prerequisitos en los datos. Incluye los pasos necesarios para poner al sistema en el estado que se desea probar.
+
+When: Especifica el conjunto de acciones que lanzan el test. La interacción del usuario que acciona la funcionalidad que deseamos testear.
+
+Then: Especifica el resultado esperado en el test. Observamos los cambios en el sistema y vemos si son los deseados.
 
 ## Creacion step
