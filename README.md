@@ -20,9 +20,12 @@ PIP es un acrónimo que significa "Paquetes de instalación PIP" o "Programa de 
 
 ## Instalación 
 
+Ejecutar en la consola el siguiente comando:
 
+pip install behave
 
 ## Creación de feacture
+
 
 
 ## Creacion step
