@@ -38,6 +38,16 @@ Then: Especifica el resultado esperado en el test. Observamos los cambios en el 
 
 Scenario online: se puede usar para ejecutar varios scenarios varias veces, con diferentes combinaciones de valores.
 
+And: Se utiliza para añadir alguna condición más en alguno de los patrones Given, When o Then
+
+But: Al igual que el And se utiliza en los patrones Given, When o Then, pero en este caso se utiliza como condición extra.
+
+Background: Ocasionalmente, te encontrarás repitiendo los mismos GIVEN en muchos SCENARIO de una FEATURE.
+
+Si es el caso, como se repite en cada escenario, esto es una indicación de que los patrones no son esenciales para describir los escenarios; Son detalles generales. Literalmente, puedes moverlos agrupándolos en un BACKGROUND.
+
+
+
 Creamos una carpeta llamada features dentro del proyecto y dentro de esta, cada uno de los archivos pertenecientes a los features del programa
 
 ![feacture1](https://user-images.githubusercontent.com/54810355/102298389-09730100-3f1f-11eb-8a90-9b038e608bdd.PNG)
