@@ -14,9 +14,12 @@ Entonces, vamos a tener muchos archivos features con criterios de aceptación qu
 
 ## Requisitos
 
+Tener instalado python para usar pip
 
+PIP es un acrónimo que significa "Paquetes de instalación PIP" o "Programa de instalación preferida". Es una utilidad de línea de comandos que le permite instalar, reinstalar o desinstalar paquetes PyPI con un comando simple y directo: "pip".
 
 ## Instalación 
+
 
 
 ## Creación de feacture
