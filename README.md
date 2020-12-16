@@ -62,11 +62,20 @@ Creamos una carpeta llamada steps dentro de features y dentro de esta, cada uno 
 
 ![step1](https://user-images.githubusercontent.com/54810355/102300040-20ffb900-3f22-11eb-9e97-e6dcff2a7515.PNG)
 
-Importamos behave y el metodo que vamos a utilizar para realizar la prueba
+Importamos behave y la clase donde esta el metodo que vamos a utilizar para realizar la prueba
 
 ![step2](https://user-images.githubusercontent.com/54810355/102300041-21984f80-3f22-11eb-9a5a-025fec9dfb29.PNG)
+
+Creamos el given, donde entre parecentesis va lo que declaramos en el feature, creamos el metodo setp que recibe un contexto y el objeto que vamos a comprar 
+
 ![step3](https://user-images.githubusercontent.com/54810355/102300042-21984f80-3f22-11eb-9671-f299d26f60e0.PNG)
+
+Creamos el when, donde entre parecentesis va lo que declaramos en el feature, creamos el metodo setp que recibe un contexto y obtenemos el valor a comparar
+
 ![step4](https://user-images.githubusercontent.com/54810355/102300044-2230e600-3f22-11eb-8206-88db9f1d66e0.PNG)
+
+Creamos el when, donde entre parecentesis va lo que declaramos en el feature, creamos el metodo setp que recibe un contexto y comparamos con el valor que esperamos en el feature
+
 ![step5](https://user-images.githubusercontent.com/54810355/102300046-2230e600-3f22-11eb-9afb-44e1ecc958c2.PNG)
 
 ## Ejecución
