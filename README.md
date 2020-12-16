@@ -42,6 +42,8 @@ Creamos una carpeta llamada features dentro del proyecto y dentro de esta, cada 
 
 Ahora, teniendo en cuenta la anterior información procedemos a establecer nuestro feature
 
+![feacture2](https://user-images.githubusercontent.com/54810355/102298817-d5e4a680-3f1f-11eb-9eca-264f88782347.PNG)
+
 ## Creacion step
 
 
