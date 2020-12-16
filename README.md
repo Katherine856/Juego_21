@@ -84,3 +84,7 @@ Nos ubicamos desde la consola en la carpeta del proyecto y ejecutamos el siguien
 
 behave
 
+Al final saldra un resumen del proceso
+
+![final](https://user-images.githubusercontent.com/54810355/102301316-881e6d00-3f24-11eb-949f-b4f35a927946.PNG)
+
