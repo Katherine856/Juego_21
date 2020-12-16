@@ -36,9 +36,11 @@ When: Especifica el conjunto de acciones que lanzan el test. La interacción del
 
 Then: Especifica el resultado esperado en el test. Observamos los cambios en el sistema y vemos si son los deseados.
 
-Creamos una carpeta llamada feature dentro del proyecto 
+Creamos una carpeta llamada features dentro del proyecto y dentro de esta, cada uno de los archivos pertenecientes a los features del programa
 
 ![feacture1](https://user-images.githubusercontent.com/54810355/102298389-09730100-3f1f-11eb-8a90-9b038e608bdd.PNG)
+
+Ahora, teniendo en cuenta la anterior información procedemos a establecer nuestro feature
 
 ## Creacion step
 
