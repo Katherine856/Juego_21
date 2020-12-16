@@ -24,7 +24,7 @@ Ejecutar en la consola el siguiente comando:
 
 pip install behave
 
-## Creación de feacture
+## Creación de feature
 
 Feature: Indica el nombre de la funcionalidad que vamos a probar. Debe ser un título claro y explícito. Incluímos aquí una descripción en forma de historia de usuario: “Como [rol ] quiero [ característica ] para que [los beneficios]”. Sobre esta descripción empezaremos a construir nuestros escenarios de prueba.
 
@@ -36,4 +36,12 @@ When: Especifica el conjunto de acciones que lanzan el test. La interacción del
 
 Then: Especifica el resultado esperado en el test. Observamos los cambios en el sistema y vemos si son los deseados.
 
+Creamos una carpeta llamada feature dentro del proyecto 
+
+![feacture1](https://user-images.githubusercontent.com/54810355/102298389-09730100-3f1f-11eb-8a90-9b038e608bdd.PNG)
+
 ## Creacion step
+
+
+
+## Ejecución
