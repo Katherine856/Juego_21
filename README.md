@@ -58,6 +58,15 @@ Ahora, teniendo en cuenta la anterior información procedemos a establecer nuest
 
 ## Creacion step
 
+Creamos una carpeta llamada steps dentro de features y dentro de esta, cada uno de los archivos pertenecientes a los steps del programa
 
+![step1](https://user-images.githubusercontent.com/54810355/102300040-20ffb900-3f22-11eb-9e97-e6dcff2a7515.PNG)
+
+Importamos behave y el metodo que vamos a utilizar para realizar la prueba
+
+![step2](https://user-images.githubusercontent.com/54810355/102300041-21984f80-3f22-11eb-9a5a-025fec9dfb29.PNG)
+![step3](https://user-images.githubusercontent.com/54810355/102300042-21984f80-3f22-11eb-9671-f299d26f60e0.PNG)
+![step4](https://user-images.githubusercontent.com/54810355/102300044-2230e600-3f22-11eb-8206-88db9f1d66e0.PNG)
+![step5](https://user-images.githubusercontent.com/54810355/102300046-2230e600-3f22-11eb-9afb-44e1ecc958c2.PNG)
 
 ## Ejecución
