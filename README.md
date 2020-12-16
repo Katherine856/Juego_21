@@ -79,3 +79,8 @@ Creamos el when, donde entre parecentesis va lo que declaramos en el feature, cr
 ![step5](https://user-images.githubusercontent.com/54810355/102300046-2230e600-3f22-11eb-9afb-44e1ecc958c2.PNG)
 
 ## Ejecución
+
+Nos ubicamos desde la consola en la carpeta del proyecto y ejecutamos el siguiente comando:
+
+behave
+
