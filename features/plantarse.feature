@@ -3,10 +3,12 @@ Feature: Jugador se planta
     Como jugador quiero plantarme para finalizar el turno
 
 Scenario Outline: plantarse
-Given una <mano>
+Given un valor de la <mano> de un jugador
 When el jugador quiere plantarse
 Then el <valor> de la mano es mayor o igual a 18
 
 Examples:
 | mano | valor |
-    | (9, corazones);(A, treboles)  | 20  |
+    | 20  | 0  |
+    | 18  | 0  |
+    | 17  | 1  |

@@ -8,13 +8,10 @@ def step(context,mano):
     context.mano = mano
     context.jugador=Jugador()
 
-@when('el jugador quiere plantarse')
+@when('el jugador quiere pedir carta')
 def step(context):
-    context.valor = context.jugador.plantarse(context.mano)
+    context.valor = context.jugador.pedir(context.mano)
 
-@then('el {valor:d} de la mano es mayor o igual a 18')
+@then('el {valor:d} de la mano es menor a 18')
 def step(context, valor):
     assert context.valor == valor
-
-
-
