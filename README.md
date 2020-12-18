@@ -3,6 +3,7 @@
 ## Integrantes
 
 Lindsey Katherine Camargo Beltrán - 20172020037
+
 Brayan Esteban Leon Pinto - 20141001002
 
 ## Descripción
