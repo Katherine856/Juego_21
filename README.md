@@ -1,5 +1,10 @@
 #  Tutorial de behave en python
 
+## Integrantes
+
+Lindsey Katherine Camargo Beltrán - 20172020037
+Brayan Esteban Leon Pinto - 20141001002
+
 ## Descripción
 
 El BDD es una técnica que surge a raíz del TDD (Test Driven Development). La esencia del TDD es que tenemos que escribir los tests antes que el propio código. BDD va un paso más allá, tenemos que hacer tests que sirvan para describir las especificaciones en un lenguaje que pueda editar un no-programador. La idea es que pueda haber alguien de producto, que defina las especificaciones y que a su vez son tests de aceptación.
