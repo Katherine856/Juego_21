@@ -7,6 +7,12 @@ class Mano:
         for t in lista:
             valor, pinta = t[1:-1].split(",")
             self.cartas.append(Carta(valor, pinta))
+    def __init__(self,listajugador):
+        self.cartas=[]
+        for t in listajugador:
+            self.cartas.append(t)
+
+
 
     def evaluar(self):
         valor = 0

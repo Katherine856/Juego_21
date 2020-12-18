@@ -1,14 +1,14 @@
-Feature: Jugador pide una carta
+Feature: Repartidor pide una carta
 
-    Como jugador quiero pedir una carta
-
+    Como Repartidor quiero solicitar una carta adicional para seguir jugando
 Scenario Outline: pedir carta
-Given un valor de la <mano> de un jugador
-When el jugador quiere pedir carta
-Then el <valor> de la mano es menor a 18
+Given un valor de la <mano> de un jugador y un repartidor <manor>
+When el repartidor quiere pedir carta
+Then el <valor> de la mano es menor a la del jugador
 
 Examples:
-| mano | valor |
-    | 20  | 1  |
-    | 18  | 1  |
-    | 17  | 0  |
+| mano | manor | valor |
+    | 20  | 18 |  1|
+    | 18  | 18 | 1|
+    | 17  | 16  |1  |
+    | 18| 20  |0 |

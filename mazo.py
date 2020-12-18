@@ -10,3 +10,4 @@ class Mazo:
 
     def dar_carta(self, posicion = 0):
         return self.cartas[posicion]
+

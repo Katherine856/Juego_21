@@ -5,7 +5,7 @@ Feature: Jugador se planta
 Scenario Outline: plantarse
 Given un valor de la <mano> de un jugador
 When el jugador quiere plantarse
-Then el <valor> de la mano es mayor o igual a 18
+Then el valor de la mano es mayor o igual a 18 <valor> 0 True 1 False
 
 Examples:
 | mano | valor |
